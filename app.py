@@ -114,7 +114,7 @@ def update_user(user_id):
                 return {"message" : f"user dengan id {user_id} tidak ditemukan"}, 404
 
             username = data['username']
-            password = data['password']
+            password = encrypt_data(data["password"], key)
 
             cursor.execute(UPDATE_USER_BY_ID, (username, password, user_id))
             connection.commit()
