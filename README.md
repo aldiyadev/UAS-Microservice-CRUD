@@ -1,6 +1,6 @@
-NAMA : Aldi Yahya Awaluddin
-Kelas : IT302
-NIM : 220401010143
+- NAMA : Aldi Yahya Awaluddin
+- Kelas : IT302
+- NIM : 220401010143
 
 ## Membuat virtual environments
 python -m venv venv
