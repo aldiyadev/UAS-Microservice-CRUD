@@ -1,6 +1,8 @@
-- NAMA : Aldi Yahya Awaluddin
-- Kelas : IT302
-- NIM : 220401010143
+- Kelompok
+  1. ALDI YAHYA AWALUDDIN
+  2. ADE KURNIA BUDIMAN
+  3. AHMAD MUNAZAR
+  4. AHMAD BISYRAL HAFI
 
 ## Membuat virtual environments
 - python -m venv venv
