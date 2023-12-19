@@ -1,8 +1,11 @@
-- Kelompok
-  1. ALDI YAHYA AWALUDDIN
-  2. ADE KURNIA BUDIMAN
-  3. AHMAD MUNAZAR
-  4. AHMAD BISYRAL HAFI
+# Kelompok
+<ol>
+  <li>ALDI YAHYA AWALUDDIN</li>
+  <li>ADE KURNIA BUDIMAN</li>
+  <li>ADE KURNIA BUDIMAN</li>
+  <li>AHMAD BISYRAL HAFI</li>
+</ol>
+
 
 ## Membuat virtual environments
 - python -m venv venv
