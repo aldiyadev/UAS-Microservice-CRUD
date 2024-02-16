@@ -1,4 +1,7 @@
-# Kelompok 1
+# Detail
+- Nama : Aldi Yahya Awaluddin
+- NIM : 220401010143
+
 <ol>
   <li>ALDI YAHYA AWALUDDIN</li>
   <li>ADE KURNIA BUDIMAN</li>
