@@ -2,14 +2,6 @@
 - Nama : Aldi Yahya Awaluddin
 - NIM : 220401010143
 
-<ol>
-  <li>ALDI YAHYA AWALUDDIN</li>
-  <li>ADE KURNIA BUDIMAN</li>
-  <li>ADE KURNIA BUDIMAN</li>
-  <li>AHMAD BISYRAL HAFI</li>
-</ol>
-
-
 ## Membuat virtual environments
 - python -m venv venv
 - venv/Scripts/activate
